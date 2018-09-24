@@ -17,6 +17,7 @@ def usage_information():
 
 
 def main(argv):
+    # These parameters are hard coded, for now:
     urlRealtyProvider = "Kijiji"
     searchArea = "GTA"
     searchRadius = 30
